@@ -1,1 +1,6 @@
 C:\HelloWorldBash\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\HelloWorldBash\HelloWorld\bin\Debug\HelloWorld.exe
+C:\HelloWorldBash\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\HelloWorldBash\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\HelloWorldBash\HelloWorld\obj\Debug\HelloWorld.exe
+C:\HelloWorldBash\HelloWorld\obj\Debug\HelloWorld.pdb
